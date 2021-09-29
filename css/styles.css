@@ -1,0 +1,107 @@
+#title{
+
+    background-color: coral; 
+    color: #fff;
+}
+
+#h1{
+
+    font-family: 'Montserrat', sans-serif;
+    
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container{
+   padding:3%;
+   padding-right: 15%;
+}
+
+.bodyy{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#navbar{
+    padding-bottom: 5.5rem;
+}
+
+.nav-item{
+    padding:0 18px;
+
+    
+}
+
+
+#tindog{
+    font-family: 'montserrat';
+    font-size: 3.5rem;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+.download_button{
+
+    margin:5% 3% 5% 0%;
+}
+
+.image_dog{
+  width: 60%;
+  transform: rotate(30deg);
+}
+
+.feature{
+    
+    padding:7% 15%;
+    text-align: center;
+
+}
+
+.fas{
+    color:lightcoral;
+    margin-bottom: 10px;
+}
+
+.fas:hover{
+    color: #ff4c68;
+}
+
+p{
+    color: grey;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    
+    text-align: center;
+    background-color:coral;
+
+}
+
+#h2tag{
+    color: white;
+}
+
+#dog_pic{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+
+
+#press{
+    background-color: coral;
+    text-align: center;
+}
+
+.press_img{
+    padding-bottom: 5%;
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#em1{
+    color:white;
+}
