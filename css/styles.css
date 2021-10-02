@@ -107,3 +107,42 @@ p{
 #em1{
     color:white;
 }
+
+#pricing{
+
+    text-align: center;
+    padding:100px;
+}
+
+.price-box{
+    padding:3%;
+  
+    
+}
+
+@media(max-width:1028px){
+    #title{
+        text-align: center;
+    }
+    .image_dog{
+        transform: rotate(0);
+    }
+}
+
+
+#cta{
+
+    background-color: #ff4c68;
+    text-align: center;
+
+}
+
+#h3tag{
+
+    color: #fff;
+}
+
+#footer{
+
+    text-align: center;
+}
